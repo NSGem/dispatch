@@ -5,8 +5,8 @@
    version="1.1"
    id="svg1"
    width="7589.625"
-   height="83.706032"
-   viewBox="0 0 7589.6251 83.706034"
+   height="83.706001"
+   viewBox="0 0 7589.6251 83.706004"
    xml:space="preserve"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
@@ -26,9 +26,9 @@
      width="7589.625"
      height="83.706001"
      x="0"
-     y="2.657647e-05" /><g
+     y="0" /><g
      id="g11"
-     transform="matrix(0.14981828,0,0,0.14981828,-111.92381,0.93254291)"
+     transform="matrix(0.14981828,0,0,0.14981828,-111.92381,0.93251633)"
      clip-path="url(#clipPath28)"><rect
        style="fill:#fdfdfd;fill-opacity:1;stroke:#e0c221;stroke-width:20;stroke-dasharray:none;stroke-opacity:1"
        id="rect7"
